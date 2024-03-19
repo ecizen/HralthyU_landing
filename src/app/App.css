@@ -1,0 +1,21 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+  
+  }
+
+  .Logo {
+    order: -1; /* Move the Logo to the left */
+  }
+  
+  .Nav {
+    display: flex;
+    gap: 20px;
+  }
+  
+  .navigasi {
+    font-weight: 700;
+    justify-content:  center;   
+  
+  }
+  
